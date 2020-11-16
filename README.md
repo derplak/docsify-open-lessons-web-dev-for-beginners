@@ -68,6 +68,19 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 # Docsify Open Lessons Template
 
+🚀 Quick Install Instructions
+---
+**Pre-flight Checklist**  
+
+1. GitHub account
+
+**Installation Steps**  
+
+1. Tap **Use Template** on the source repository
+2. Choose the destination for the copied site files
+2. Go to **Settings** of your repository, scroll down to **GitHub Pages** and chose **master branch folder** (see more details in the [Docsify documentation](https://docsify.now.sh/deploy?id=gitlab-pages))
+3. And you're done! (view your new site using the provided URL right below your **GitHub Pages** section - it can take up to 20 minutes for your site to be initially available)
+
 
 ## 💻 Editing this site locally
 
