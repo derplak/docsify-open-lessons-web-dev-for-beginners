@@ -10,7 +10,7 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson cur
 
 ## Pedagogy
 
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a typing game, a virtual terrarium, a 'green' browser extension, a 'space invaders' type game, and a business-type banking app, and will have learned the basics of JavaScript, HTML, and CSS along with the modern toolchain of today's web developer. 
+We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a typing game, a virtual terrarium, a 'green' browser extension, a 'space invaders' type game, and a business-type banking app, and will have learned the basics of JavaScript, HTML, and CSS along with the modern toolchain of today's web developer.
 
 By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. We also wrote several starter lessons in JavaScript basics to introduce concepts, paired with video from the "[Beginners Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=cxaall-4621-cxall)" collection of video tutorials, some of whose authors contributed to this curriculum.
 
@@ -19,7 +19,7 @@ In addition, a low-stakes quiz before a class sets the intention of the student 
 While we have purposefully avoided introducing JavaScript frameworks so as to concentrate on the basic skills needed as a web developer before adopting a framework, a good next step to completing this curriculum would be learning about Node.js via another collection of videos: "[Beginner Series to: Node.js](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs?WT.mc_id=cxaall-4621-cxall)".
 
 > Find our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines. We welcome your constructive feedback!
-> 
+>
 ## Each lesson includes:
 
 - optional sketchnote
@@ -65,3 +65,33 @@ While we have purposefully avoided introducing JavaScript frameworks so as to co
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+
+# Docsify Open Lessons Info
+
+
+## 💻 Editing this site locally
+
+1. Tap **Clone** on your repository page
+2. Choose **Open Desktop** and follow the prompts, installing GitHub Desktop if not already present
+3. You will now be able to edit your Docsify site using the desktop editor of your choice (e.g. atom.io)
+4. Use GitHub Desktop to push any changes to your repository. [Learn more about using GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project).
+
+## 🔗 Changing the GitHub link
+
+1. Edit the file `index.html` in your repository
+2. Find the sample GitHub repository URL `https://github.com/hibbitts-design/docsify-open-lessons-web-dev-for-beginners` and replace it with your own repository URL, for example `https://github.com/YourGitHubUsername/Docsify/blob/master/docs/`
+3. Commit your changes.
+
+## 📼 Docsify install/config
+
+[![Generating Documentation Sites with GitHub and Docsify - Alysson Alvaran](youtube.png)](https://www.youtube.com/watch?v=TV88lp7egMw)  
+_Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvaran_
+
+## 📚 Learn more about Docsify
+
+[Docsify Documentation](https://docsify.js.org/#/?id=docsifyg)
+
+## ‍🙇 Credits and special thanks
+
+[Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
+[Docsify Themeable](https://github.com/jhildenbiddle/docsify-themeable)  
